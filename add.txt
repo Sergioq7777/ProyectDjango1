@@ -1,0 +1,7 @@
+1) To start a project:
+django-admin startproject (put the name of the project  here)
+
+2) To obtain the DB Get in to the page of the project.python3 mange.py migrate
+
+3)To obtain the server:
+python3 manage.py runserver
